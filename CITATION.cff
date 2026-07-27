@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+
+title: DIC_FFT_Geomorphology_Tools
+
+
+message: "If you use this software, please cite it as follows."
+
+ 
+
+authors:
+
+- family-names: González-Díez
+
+given-names: Alberto
+
+ 
+
+version: 1.0
+
+ 
+
+date-released: 2026-07-27
+
+ 
+
+repository-code: https://github.com/alberto1gonzalez/DIC_FFT_Geomorphology_Tools
+
+ 
+
+license: MIT
